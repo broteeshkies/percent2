@@ -16,5 +16,5 @@ $ npm install percent2
 ```js
 import percent2 from 'percent2';
 
-console.log(percent(5, 20, 0)); // => 25
+console.log(percent2(5, 20, 0)); // => 25
 ```
